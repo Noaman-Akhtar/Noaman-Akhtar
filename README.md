@@ -7,7 +7,7 @@
 ## 🌐 Connect with Me  
 [![Email](https://img.shields.io/badge/Email-akhtarnoaman%40gmail.com-red?logo=gmail&logoColor=white)](mailto:akhtarnoaman@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noaman%20Akhtar-blue?logo=linkedin)](https://www.linkedin.com/in/noaman-akhtar-8235572a2/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Noaman--Akhtar-black?logo=github)](https://github.com/Noaman-Akhtar)  
+
 
 ---
 
