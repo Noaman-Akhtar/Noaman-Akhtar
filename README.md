@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Noaman Akhtar  
 
-💻 **Computer Science & Engineering Student** | 🚀 **Full-Stack Developer** | 🎨 Building **Online Sketchboard** (Excalidraw-inspired)  
+💻 **Computer Science & Engineering Student** | 🚀 **Full-Stack Developer**  
 
 ---
 
